@@ -1,8 +1,8 @@
 {
-  "name": "webman-tech/laravel-cache",
+  "name": "pxianyu/laravel-cache",
   "type": "library",
   "license": "MIT",
-  "description": "Webman plugin webman-tech/laravel-cache",
+  "description": "Webman plugin laravel-cache",
   "require": {
     "php": ">=7.2",
     "illuminate/cache": "^10.1",
